@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\مشروع-خوارزميات\مشروع-خوارزميات\bin\Debug\مشروع-خوارزميات.exe.config
+C:\Users\ASUS\Desktop\مشروع-خوارزميات\مشروع-خوارزميات\bin\Debug\مشروع-خوارزميات.exe
+C:\Users\ASUS\Desktop\مشروع-خوارزميات\مشروع-خوارزميات\bin\Debug\مشروع-خوارزميات.pdb
+C:\Users\ASUS\Desktop\مشروع-خوارزميات\مشروع-خوارزميات\obj\Debug\مشروع-خوارزميات.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\مشروع-خوارزميات\مشروع-خوارزميات\obj\Debug\مشروع-خوارزميات.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\مشروع-خوارزميات\مشروع-خوارزميات\obj\Debug\مشروع-خوارزميات.exe
+C:\Users\ASUS\Desktop\مشروع-خوارزميات\مشروع-خوارزميات\obj\Debug\مشروع-خوارزميات.pdb
+C:\Users\ASUS\Desktop\مشروع-خوارزميات\مشروع-خوارزميات\obj\Debug\مشروع-خوارزميات.exe.config
